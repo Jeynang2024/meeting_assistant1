@@ -1,0 +1,6 @@
+
+pyaudio
+requests
+torch
+transformers
+textblob

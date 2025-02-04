@@ -6,7 +6,7 @@ This project is a simple **Audio Summarizer** and **Recorder** built using **Str
 ![front](images/front.png)
 ## Features
 - **Audio Recording**: Record audio directly from your browser.
-- **Audio Transcription**: Automatically transcribe audio to text using **Speech Recognition** or an external service.
+- **Audio Transcription**: Automatically transcribe audio to text through assemblyai api.
 - **Sentiment Analysis**: Analyze the sentiment of the transcribed text (Positive, Negative, or Neutral).
 - **Summarization**: Summarize the transcribed text for a concise version of the content.
 
